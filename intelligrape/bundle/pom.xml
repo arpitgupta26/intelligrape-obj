@@ -60,6 +60,11 @@
             <groupId>org.apache.sling</groupId>
             <artifactId>org.apache.sling.jcr.api</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.adobe.aem</groupId>
+            <artifactId>aem-api</artifactId>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <!-- ====================================================================== -->

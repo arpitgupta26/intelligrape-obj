@@ -3,4 +3,4 @@
     jcr:description="Containing modified footer for homepage"
     jcr:primaryType="cq:Component"
     jcr:title="Home Page"
-    sling:resourceSuperType="ttnd/components/page/base-page"/>
+    sling:resourceSuperType="intelli/components/page/base-page"/>
